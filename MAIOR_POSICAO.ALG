@@ -34,7 +34,7 @@ Inicio
   
   escreval
   escreval ("Maior valor: ", maior:4:2)
-  escreval ("Pisicao do maior valor = ", posicao)
+  escreval ("Posicao do maior valor = ", posicao)
   
 
 Fimalgoritmo
