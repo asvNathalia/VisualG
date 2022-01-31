@@ -8,6 +8,7 @@ Algoritmo "dados_pessoas"
 // Data atual  : 31/01/2022
 
 Var
+
    N, i, contMulheres, contHomens : inteiro
    menorAlturas, maiorAlturas, soma, media: real
    alturas : vetor [0..99] de real
@@ -57,7 +58,7 @@ Inicio
          escreval ("Media das alturas das Mulheres: ", media:4:2)
       fimse
       
-      contHomens <- N- contMulheres
+      contHomens <- N - contMulheres
       
       escreval ("Numero de homens = ", contHomens)
       
